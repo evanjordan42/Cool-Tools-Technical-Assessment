@@ -1,0 +1,14 @@
+{
+  "name": "cooltools",
+  "version": "1.0.0",
+  "description": "Tech assessment for Cool Tools",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Evan Jordan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  }
+}
